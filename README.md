@@ -34,7 +34,8 @@ The Resume Generator Webpage is a simple tool that allows users to create a basi
 
    ```bash
    git clone https://github.com/JASHWANTHS07/Coding-Raja-Technologies-Internship.git
-# Online Music Player
+   
+# TASK 2 --Online Music Player--
 
 ![Music Player Screenshot](screenshot.png)
 
