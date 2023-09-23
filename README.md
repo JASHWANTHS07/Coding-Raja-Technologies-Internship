@@ -85,9 +85,4 @@ If you'd like to contribute to this project or report issues, please feel free t
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Icons used in this project are from [Font Awesome](https://fontawesome.com/).
-- Original design inspiration and code structure by [OpenAI GPT-3](https://beta.openai.com/).
+This project is licensed under the APACHE License - see the [LICENSE](LICENSE) file for details.
